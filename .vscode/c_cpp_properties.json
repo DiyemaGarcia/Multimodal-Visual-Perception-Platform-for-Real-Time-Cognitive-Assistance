@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/rene/miniconda3/envs/image_mining/include/python3.10",
+                "/home/rene/miniconda3/envs/image_mining/lib/python3.10/site-packages/torch/include",
+                "/home/rene/miniconda3/envs/image_mining/lib/python3.10/site-packages/torch/include/torch/csrc/api/include",
+                "/usr/local/cuda-12.3/include"
+            ],
+            "compilerPath": "/usr/bin/c++",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

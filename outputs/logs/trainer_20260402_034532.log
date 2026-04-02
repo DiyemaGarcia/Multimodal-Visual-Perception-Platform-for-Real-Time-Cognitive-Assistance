@@ -1,0 +1,110 @@
+2026-04-02 03:45:35 | INFO     | trainer | Starting training for 100 epochs.
+2026-04-02 03:45:46 | INFO     | trainer | Epoch 0000 | train_loss: 8.09705 | train_recon: 7.79655 | train_kl: 136.54680 | val_loss: 214.57898 | val_recon: 6.50373 | val_kl: 208.07057 | val_elbo: 214.57430
+2026-04-02 03:45:46 | INFO     | trainer | Epoch 0 completed in 10.7s
+2026-04-02 03:45:58 | INFO     | trainer | Epoch 0001 | train_loss: 7.83777 | train_recon: 6.78721 | train_kl: 7.98884 | val_loss: 9.47326 | val_recon: 6.26198 | val_kl: 3.21107 | val_elbo: 9.47305
+2026-04-02 03:45:58 | INFO     | trainer | Epoch 1 completed in 10.3s
+2026-04-02 03:46:10 | INFO     | trainer | Epoch 0002 | train_loss: 7.54832 | train_recon: 6.62800 | train_kl: 1.02523 | val_loss: 7.13593 | val_recon: 6.14666 | val_kl: 0.98916 | val_elbo: 7.13581
+2026-04-02 03:46:10 | INFO     | trainer | Epoch 2 completed in 10.3s
+2026-04-02 03:46:23 | INFO     | trainer | Epoch 0003 | train_loss: 7.43606 | train_recon: 6.49456 | train_kl: 0.50256 | val_loss: 6.46824 | val_recon: 5.99800 | val_kl: 0.47018 | val_elbo: 6.46817
+2026-04-02 03:46:23 | INFO     | trainer | Epoch 3 completed in 10.3s
+2026-04-02 03:46:35 | INFO     | trainer | Epoch 0004 | train_loss: 7.29278 | train_recon: 6.33904 | train_kl: 0.30724 | val_loss: 6.15340 | val_recon: 5.86665 | val_kl: 0.28668 | val_elbo: 6.15333
+2026-04-02 03:46:35 | INFO     | trainer | Epoch 4 completed in 10.3s
+2026-04-02 03:46:49 | INFO     | trainer | Epoch 0005 | train_loss: 7.16514 | train_recon: 6.20635 | train_kl: 0.22405 | val_loss: 5.97449 | val_recon: 5.78586 | val_kl: 0.18859 | val_elbo: 5.97444
+2026-04-02 03:46:49 | INFO     | trainer | Epoch 5 completed in 10.7s
+2026-04-02 03:47:01 | INFO     | trainer | Epoch 0006 | train_loss: 7.06881 | train_recon: 6.10889 | train_kl: 0.17111 | val_loss: 5.86060 | val_recon: 5.73095 | val_kl: 0.12962 | val_elbo: 5.86057
+2026-04-02 03:47:01 | INFO     | trainer | Epoch 6 completed in 10.4s
+2026-04-02 03:47:14 | INFO     | trainer | Epoch 0007 | train_loss: 6.99204 | train_recon: 6.02928 | train_kl: 0.13356 | val_loss: 5.78559 | val_recon: 5.69520 | val_kl: 0.09037 | val_elbo: 5.78557
+2026-04-02 03:47:14 | INFO     | trainer | Epoch 7 completed in 10.3s
+2026-04-02 03:47:27 | INFO     | trainer | Epoch 0008 | train_loss: 6.92800 | train_recon: 5.96378 | train_kl: 0.10701 | val_loss: 5.72939 | val_recon: 5.65711 | val_kl: 0.07227 | val_elbo: 5.72938
+2026-04-02 03:47:27 | INFO     | trainer | Epoch 8 completed in 10.5s
+2026-04-02 03:47:40 | INFO     | trainer | Epoch 0009 | train_loss: 6.87259 | train_recon: 5.90541 | train_kl: 0.08727 | val_loss: 5.68650 | val_recon: 5.63125 | val_kl: 0.05524 | val_elbo: 5.68649
+2026-04-02 03:47:40 | INFO     | trainer | Epoch 9 completed in 10.5s
+2026-04-02 03:47:53 | INFO     | trainer | Epoch 0010 | train_loss: 6.81785 | train_recon: 5.84790 | train_kl: 0.07383 | val_loss: 5.66043 | val_recon: 5.61521 | val_kl: 0.04521 | val_elbo: 5.66042
+2026-04-02 03:47:53 | INFO     | trainer | Epoch 10 completed in 10.4s
+2026-04-02 03:48:07 | INFO     | trainer | Epoch 0011 | train_loss: 6.77117 | train_recon: 5.79872 | train_kl: 0.06206 | val_loss: 5.62721 | val_recon: 5.58920 | val_kl: 0.03800 | val_elbo: 5.62720
+2026-04-02 03:48:07 | INFO     | trainer | Epoch 11 completed in 11.5s
+2026-04-02 03:48:19 | INFO     | trainer | Epoch 0012 | train_loss: 6.72248 | train_recon: 5.74717 | train_kl: 0.05297 | val_loss: 5.61167 | val_recon: 5.57964 | val_kl: 0.03202 | val_elbo: 5.61167
+2026-04-02 03:48:19 | INFO     | trainer | Epoch 12 completed in 10.4s
+2026-04-02 03:48:32 | INFO     | trainer | Epoch 0013 | train_loss: 6.68054 | train_recon: 5.70475 | train_kl: 0.04561 | val_loss: 5.58868 | val_recon: 5.56160 | val_kl: 0.02707 | val_elbo: 5.58867
+2026-04-02 03:48:32 | INFO     | trainer | Epoch 13 completed in 10.4s
+2026-04-02 03:48:45 | INFO     | trainer | Epoch 0014 | train_loss: 6.63771 | train_recon: 5.65882 | train_kl: 0.03986 | val_loss: 5.57535 | val_recon: 5.55147 | val_kl: 0.02387 | val_elbo: 5.57534
+2026-04-02 03:48:45 | INFO     | trainer | Epoch 14 completed in 10.4s
+2026-04-02 03:48:58 | INFO     | trainer | Epoch 0015 | train_loss: 6.59353 | train_recon: 5.61497 | train_kl: 0.03493 | val_loss: 5.55881 | val_recon: 5.53778 | val_kl: 0.02103 | val_elbo: 5.55881
+2026-04-02 03:48:58 | INFO     | trainer | Epoch 15 completed in 10.5s
+2026-04-02 03:49:11 | INFO     | trainer | Epoch 0016 | train_loss: 6.55903 | train_recon: 5.57734 | train_kl: 0.03108 | val_loss: 5.54424 | val_recon: 5.52528 | val_kl: 0.01896 | val_elbo: 5.54424
+2026-04-02 03:49:11 | INFO     | trainer | Epoch 16 completed in 10.7s
+2026-04-02 03:49:24 | INFO     | trainer | Epoch 0017 | train_loss: 6.51419 | train_recon: 5.53376 | train_kl: 0.02765 | val_loss: 5.53861 | val_recon: 5.52228 | val_kl: 0.01633 | val_elbo: 5.53861
+2026-04-02 03:49:24 | INFO     | trainer | Epoch 17 completed in 10.6s
+2026-04-02 03:49:37 | INFO     | trainer | Epoch 0018 | train_loss: 6.47553 | train_recon: 5.49422 | train_kl: 0.02484 | val_loss: 5.53016 | val_recon: 5.51619 | val_kl: 0.01397 | val_elbo: 5.53016
+2026-04-02 03:49:37 | INFO     | trainer | Epoch 18 completed in 10.5s
+2026-04-02 03:49:50 | INFO     | trainer | Epoch 0019 | train_loss: 6.43775 | train_recon: 5.45681 | train_kl: 0.02323 | val_loss: 5.51979 | val_recon: 5.50599 | val_kl: 0.01380 | val_elbo: 5.51979
+2026-04-02 03:49:50 | INFO     | trainer | Epoch 19 completed in 10.4s
+2026-04-02 03:50:02 | INFO     | trainer | Epoch 0020 | train_loss: 6.40310 | train_recon: 5.41888 | train_kl: 0.02115 | val_loss: 5.51392 | val_recon: 5.50130 | val_kl: 0.01262 | val_elbo: 5.51391
+2026-04-02 03:50:02 | INFO     | trainer | Epoch 20 completed in 10.4s
+2026-04-02 03:50:15 | INFO     | trainer | Epoch 0021 | train_loss: 6.36720 | train_recon: 5.38373 | train_kl: 0.01926 | val_loss: 5.50246 | val_recon: 5.49129 | val_kl: 0.01117 | val_elbo: 5.50246
+2026-04-02 03:50:15 | INFO     | trainer | Epoch 21 completed in 10.8s
+2026-04-02 03:50:28 | INFO     | trainer | Epoch 0022 | train_loss: 6.33128 | train_recon: 5.34733 | train_kl: 0.01762 | val_loss: 5.49931 | val_recon: 5.48911 | val_kl: 0.01020 | val_elbo: 5.49931
+2026-04-02 03:50:28 | INFO     | trainer | Epoch 22 completed in 10.5s
+2026-04-02 03:50:40 | INFO     | trainer | Epoch 0023 | train_loss: 6.29667 | train_recon: 5.31053 | train_kl: 0.01623 | val_loss: 5.49761 | val_recon: 5.48818 | val_kl: 0.00943 | val_elbo: 5.49761
+2026-04-02 03:50:40 | INFO     | trainer | Epoch 23 completed in 10.6s
+2026-04-02 03:50:53 | INFO     | trainer | Epoch 0024 | train_loss: 6.26451 | train_recon: 5.27901 | train_kl: 0.01497 | val_loss: 5.49965 | val_recon: 5.49134 | val_kl: 0.00831 | val_elbo: 5.49965
+2026-04-02 03:50:53 | INFO     | trainer | Epoch 24 completed in 10.7s
+2026-04-02 03:51:06 | INFO     | trainer | Epoch 0025 | train_loss: 6.22743 | train_recon: 5.24283 | train_kl: 0.01380 | val_loss: 5.49857 | val_recon: 5.49078 | val_kl: 0.00779 | val_elbo: 5.49857
+2026-04-02 03:51:06 | INFO     | trainer | Epoch 25 completed in 10.5s
+2026-04-02 03:51:18 | INFO     | trainer | Epoch 0026 | train_loss: 6.19670 | train_recon: 5.21071 | train_kl: 0.01391 | val_loss: 5.49778 | val_recon: 5.48993 | val_kl: 0.00785 | val_elbo: 5.49778
+2026-04-02 03:51:18 | INFO     | trainer | Epoch 26 completed in 10.5s
+2026-04-02 03:51:31 | INFO     | trainer | Epoch 0027 | train_loss: 6.16575 | train_recon: 5.18003 | train_kl: 0.01395 | val_loss: 5.50349 | val_recon: 5.49600 | val_kl: 0.00749 | val_elbo: 5.50349
+2026-04-02 03:51:31 | INFO     | trainer | Epoch 27 completed in 10.5s
+2026-04-02 03:51:42 | INFO     | trainer | Epoch 0028 | train_loss: 6.13455 | train_recon: 5.14771 | train_kl: 0.01405 | val_loss: 5.49861 | val_recon: 5.49069 | val_kl: 0.00791 | val_elbo: 5.49861
+2026-04-02 03:51:42 | INFO     | trainer | Epoch 28 completed in 10.5s
+2026-04-02 03:51:54 | INFO     | trainer | Epoch 0029 | train_loss: 6.10433 | train_recon: 5.11644 | train_kl: 0.01416 | val_loss: 5.49927 | val_recon: 5.49137 | val_kl: 0.00790 | val_elbo: 5.49927
+2026-04-02 03:51:54 | INFO     | trainer | Epoch 29 completed in 10.4s
+2026-04-02 03:52:06 | INFO     | trainer | Epoch 0030 | train_loss: 6.07298 | train_recon: 5.08756 | train_kl: 0.01416 | val_loss: 5.50222 | val_recon: 5.49459 | val_kl: 0.00763 | val_elbo: 5.50221
+2026-04-02 03:52:06 | INFO     | trainer | Epoch 30 completed in 10.4s
+2026-04-02 03:52:17 | INFO     | trainer | Epoch 0031 | train_loss: 6.04450 | train_recon: 5.05866 | train_kl: 0.01422 | val_loss: 5.50115 | val_recon: 5.49348 | val_kl: 0.00768 | val_elbo: 5.50115
+2026-04-02 03:52:17 | INFO     | trainer | Epoch 31 completed in 10.3s
+2026-04-02 03:52:30 | INFO     | trainer | Epoch 0032 | train_loss: 6.01374 | train_recon: 5.02846 | train_kl: 0.01426 | val_loss: 5.50840 | val_recon: 5.50037 | val_kl: 0.00802 | val_elbo: 5.50839
+2026-04-02 03:52:30 | INFO     | trainer | Epoch 32 completed in 10.6s
+2026-04-02 03:52:42 | INFO     | trainer | Epoch 0033 | train_loss: 5.98655 | train_recon: 5.00189 | train_kl: 0.01430 | val_loss: 5.50349 | val_recon: 5.49575 | val_kl: 0.00774 | val_elbo: 5.50349
+2026-04-02 03:52:42 | INFO     | trainer | Epoch 33 completed in 11.4s
+2026-04-02 03:52:54 | INFO     | trainer | Epoch 0034 | train_loss: 5.95957 | train_recon: 4.97254 | train_kl: 0.01445 | val_loss: 5.50795 | val_recon: 5.49988 | val_kl: 0.00808 | val_elbo: 5.50795
+2026-04-02 03:52:54 | INFO     | trainer | Epoch 34 completed in 10.6s
+2026-04-02 03:53:06 | INFO     | trainer | Epoch 0035 | train_loss: 5.93243 | train_recon: 4.94650 | train_kl: 0.01445 | val_loss: 5.50728 | val_recon: 5.49931 | val_kl: 0.00797 | val_elbo: 5.50728
+2026-04-02 03:53:06 | INFO     | trainer | Epoch 35 completed in 10.4s
+2026-04-02 03:53:18 | INFO     | trainer | Epoch 0036 | train_loss: 5.90728 | train_recon: 4.92230 | train_kl: 0.01447 | val_loss: 5.50416 | val_recon: 5.49641 | val_kl: 0.00775 | val_elbo: 5.50416
+2026-04-02 03:53:18 | INFO     | trainer | Epoch 36 completed in 10.4s
+2026-04-02 03:53:29 | INFO     | trainer | Epoch 0037 | train_loss: 5.88073 | train_recon: 4.89635 | train_kl: 0.01447 | val_loss: 5.51207 | val_recon: 5.50426 | val_kl: 0.00782 | val_elbo: 5.51207
+2026-04-02 03:53:29 | INFO     | trainer | Epoch 37 completed in 10.5s
+2026-04-02 03:53:41 | INFO     | trainer | Epoch 0038 | train_loss: 5.85747 | train_recon: 4.87238 | train_kl: 0.01455 | val_loss: 5.50791 | val_recon: 5.49993 | val_kl: 0.00798 | val_elbo: 5.50791
+2026-04-02 03:53:41 | INFO     | trainer | Epoch 38 completed in 10.5s
+2026-04-02 03:53:53 | INFO     | trainer | Epoch 0039 | train_loss: 5.83700 | train_recon: 4.85109 | train_kl: 0.01458 | val_loss: 5.52238 | val_recon: 5.51435 | val_kl: 0.00803 | val_elbo: 5.52238
+2026-04-02 03:53:53 | INFO     | trainer | Epoch 39 completed in 10.4s
+2026-04-02 03:54:05 | INFO     | trainer | Epoch 0040 | train_loss: 5.80882 | train_recon: 4.82450 | train_kl: 0.01457 | val_loss: 5.51975 | val_recon: 5.51168 | val_kl: 0.00807 | val_elbo: 5.51975
+2026-04-02 03:54:05 | INFO     | trainer | Epoch 40 completed in 10.6s
+2026-04-02 03:54:17 | INFO     | trainer | Epoch 0041 | train_loss: 5.78737 | train_recon: 4.80258 | train_kl: 0.01461 | val_loss: 5.52054 | val_recon: 5.51312 | val_kl: 0.00742 | val_elbo: 5.52054
+2026-04-02 03:54:17 | INFO     | trainer | Epoch 41 completed in 10.7s
+2026-04-02 03:54:29 | INFO     | trainer | Epoch 0042 | train_loss: 5.76807 | train_recon: 4.78297 | train_kl: 0.01462 | val_loss: 5.52276 | val_recon: 5.51459 | val_kl: 0.00817 | val_elbo: 5.52276
+2026-04-02 03:54:29 | INFO     | trainer | Epoch 42 completed in 10.5s
+2026-04-02 03:54:41 | INFO     | trainer | Epoch 0043 | train_loss: 5.74477 | train_recon: 4.75865 | train_kl: 0.01467 | val_loss: 5.52413 | val_recon: 5.51637 | val_kl: 0.00776 | val_elbo: 5.52413
+2026-04-02 03:54:41 | INFO     | trainer | Epoch 43 completed in 10.6s
+2026-04-02 03:54:53 | INFO     | trainer | Epoch 0044 | train_loss: 5.72649 | train_recon: 4.73990 | train_kl: 0.01470 | val_loss: 5.52487 | val_recon: 5.51705 | val_kl: 0.00781 | val_elbo: 5.52487
+2026-04-02 03:54:53 | INFO     | trainer | Epoch 44 completed in 10.7s
+2026-04-02 03:55:05 | INFO     | trainer | Epoch 0045 | train_loss: 5.70358 | train_recon: 4.72097 | train_kl: 0.01463 | val_loss: 5.53323 | val_recon: 5.52536 | val_kl: 0.00787 | val_elbo: 5.53323
+2026-04-02 03:55:05 | INFO     | trainer | Epoch 45 completed in 10.7s
+2026-04-02 03:55:17 | INFO     | trainer | Epoch 0046 | train_loss: 5.68934 | train_recon: 4.70279 | train_kl: 0.01473 | val_loss: 5.53002 | val_recon: 5.52226 | val_kl: 0.00776 | val_elbo: 5.53002
+2026-04-02 03:55:17 | INFO     | trainer | Epoch 46 completed in 10.7s
+2026-04-02 03:55:29 | INFO     | trainer | Epoch 0047 | train_loss: 5.66720 | train_recon: 4.68164 | train_kl: 0.01471 | val_loss: 5.52994 | val_recon: 5.52207 | val_kl: 0.00787 | val_elbo: 5.52994
+2026-04-02 03:55:29 | INFO     | trainer | Epoch 47 completed in 11.1s
+2026-04-02 03:55:41 | INFO     | trainer | Epoch 0048 | train_loss: 5.64974 | train_recon: 4.66389 | train_kl: 0.01473 | val_loss: 5.53738 | val_recon: 5.52953 | val_kl: 0.00785 | val_elbo: 5.53738
+2026-04-02 03:55:41 | INFO     | trainer | Epoch 48 completed in 10.7s
+2026-04-02 03:55:53 | INFO     | trainer | Epoch 0049 | train_loss: 5.63257 | train_recon: 4.64736 | train_kl: 0.01472 | val_loss: 5.54106 | val_recon: 5.53309 | val_kl: 0.00797 | val_elbo: 5.54106
+2026-04-02 03:55:53 | INFO     | trainer | Epoch 49 completed in 10.5s
+2026-04-02 03:56:06 | INFO     | trainer | Epoch 0050 | train_loss: 4.71862 | train_recon: 4.62424 | train_kl: 263.43761 | val_loss: 324.15885 | val_recon: 5.53467 | val_kl: 318.62375 | val_elbo: 324.15842
+2026-04-02 03:56:06 | INFO     | trainer | Epoch 50 completed in 11.0s
+2026-04-02 03:56:18 | INFO     | trainer | Epoch 0051 | train_loss: 5.81655 | train_recon: 4.61188 | train_kl: 13.71881 | val_loss: 8.52628 | val_recon: 5.53572 | val_kl: 2.99009 | val_elbo: 8.52581
+2026-04-02 03:56:18 | INFO     | trainer | Epoch 51 completed in 10.8s
+2026-04-02 03:56:30 | INFO     | trainer | Epoch 0052 | train_loss: 5.46814 | train_recon: 4.59786 | train_kl: 1.44335 | val_loss: 6.36557 | val_recon: 5.54146 | val_kl: 0.82392 | val_elbo: 6.36538
+2026-04-02 03:56:30 | INFO     | trainer | Epoch 52 completed in 10.5s
+2026-04-02 03:56:42 | INFO     | trainer | Epoch 0053 | train_loss: 5.47876 | train_recon: 4.58264 | train_kl: 0.78821 | val_loss: 5.94581 | val_recon: 5.54109 | val_kl: 0.40465 | val_elbo: 5.94573
+2026-04-02 03:56:42 | INFO     | trainer | Epoch 53 completed in 10.7s
+2026-04-02 03:56:43 | INFO     | trainer | Early stopping triggered at epoch 53.

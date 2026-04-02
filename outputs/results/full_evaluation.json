@@ -1,0 +1,52 @@
+{
+  "reconstruction": {
+    "accuracy": 0.20974535337532363,
+    "perplexity": 145.2928855162332,
+    "bleu_1": 0.06582846268859588,
+    "bleu_2": 0.018708154266632585,
+    "bleu_3": 0.006089431211656375,
+    "bleu_4": 0.0020197777698434897
+  },
+  "morpho_segmentation": {
+    "precision": 0.7237237237237237,
+    "recall": 0.9616919393455706,
+    "f1": 0.8259081562714187,
+    "exact_match": 0.882,
+    "n_evaluated": 1000,
+    "coverage": 1.0
+  },
+  "clustering": {
+    "5": {
+      "adjusted_rand_index": -0.0016994664850343154,
+      "normalized_mutual_info": 0.011801991375836412,
+      "homogeneity": 0.009323437516078477,
+      "completeness": 0.016075529502433798,
+      "v_measure": 0.01180199137583641,
+      "silhouette_score": 0.06957188993692398
+    },
+    "10": {
+      "adjusted_rand_index": -0.0012029413179360968,
+      "normalized_mutual_info": 0.01875547306450094,
+      "homogeneity": 0.018344259240539378,
+      "completeness": 0.01918554557142338,
+      "v_measure": 0.01875547306450094,
+      "silhouette_score": 0.02333545684814453
+    },
+    "17": {
+      "adjusted_rand_index": -0.0008579593160979112,
+      "normalized_mutual_info": 0.029253890536653507,
+      "homogeneity": 0.03170552656667297,
+      "completeness": 0.027154187674775575,
+      "v_measure": 0.029253890536653507,
+      "silhouette_score": -0.003998572006821632
+    },
+    "20": {
+      "adjusted_rand_index": -0.0013978910751820846,
+      "normalized_mutual_info": 0.031809687028741165,
+      "homogeneity": 0.03500961010391419,
+      "completeness": 0.029145730076945382,
+      "v_measure": 0.031809687028741165,
+      "silhouette_score": 0.009159511886537075
+    }
+  }
+}

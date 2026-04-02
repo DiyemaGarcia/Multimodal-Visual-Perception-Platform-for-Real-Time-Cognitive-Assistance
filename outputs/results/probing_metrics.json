@@ -1,0 +1,86 @@
+{
+  "morpho": {
+    "upos": {
+      "accuracy_mean": 0.25780809229085094,
+      "accuracy_std": 0.001210660630263623,
+      "f1_macro_mean": 0.02562067771812256,
+      "f1_macro_std": 9.562756882656332e-05,
+      "n_classes": 17,
+      "classes": [
+        "ADJ",
+        "ADP",
+        "ADV",
+        "AUX",
+        "CCONJ",
+        "DET",
+        "INTJ",
+        "NOUN",
+        "NUM",
+        "PART",
+        "PRON",
+        "PROPN",
+        "PUNCT",
+        "SCONJ",
+        "SYM",
+        "VERB",
+        "X"
+      ]
+    }
+  },
+  "syntax": {
+    "upos": {
+      "accuracy_mean": 0.25780809229085094,
+      "accuracy_std": 0.001210660630263623,
+      "f1_macro_mean": 0.02562067771812256,
+      "f1_macro_std": 9.562756882656332e-05,
+      "n_classes": 17,
+      "classes": [
+        "ADJ",
+        "ADP",
+        "ADV",
+        "AUX",
+        "CCONJ",
+        "DET",
+        "INTJ",
+        "NOUN",
+        "NUM",
+        "PART",
+        "PRON",
+        "PROPN",
+        "PUNCT",
+        "SCONJ",
+        "SYM",
+        "VERB",
+        "X"
+      ]
+    }
+  },
+  "full": {
+    "upos": {
+      "accuracy_mean": 0.25780809229085094,
+      "accuracy_std": 0.001210660630263623,
+      "f1_macro_mean": 0.02562067771812256,
+      "f1_macro_std": 9.562756882656332e-05,
+      "n_classes": 17,
+      "classes": [
+        "ADJ",
+        "ADP",
+        "ADV",
+        "AUX",
+        "CCONJ",
+        "DET",
+        "INTJ",
+        "NOUN",
+        "NUM",
+        "PART",
+        "PRON",
+        "PROPN",
+        "PUNCT",
+        "SCONJ",
+        "SYM",
+        "VERB",
+        "X"
+      ]
+    }
+  }
+}
