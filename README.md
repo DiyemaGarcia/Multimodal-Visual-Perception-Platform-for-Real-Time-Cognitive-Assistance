@@ -59,42 +59,6 @@ python setup.py build_ext --inplace
 Open `main.ipynb` and run all cells in order, or run each section
 independently using the auxiliary notebooks in `notebooks/`.
 
----
-
-## Project Structure
-```
-vae_morphosyntax/
-├── main.ipynb              # Full pipeline orchestration
-├── configs/                # YAML configuration files
-├── data/                   # Raw and processed data
-├── src/                    # All Python source code
-│   ├── data/               # Parsing, tokenisation, vocabulary, dataset
-│   ├── models/             # VAE encoder, decoder, priors, latent space
-│   ├── training/           # ELBO loss, trainer, scheduler, callbacks
-│   ├── analysis/           # Probing, clustering, correlation, visualisation
-│   ├── evaluation/         # Morphological, syntactic, reconstruction metrics
-│   └── utils/              # Config, logging, seed, CUDA utilities
-├── cpp_extensions/         # C++ and CUDA extensions
-├── notebooks/              # Exploratory and analysis notebooks
-├── outputs/                # Checkpoints, logs, figures, results
-└── tests/                  # Unit tests
-```
-
----
-
-## Key Results (expected after full training)
-
-| Metric                        | Expected Range  |
-|-------------------------------|----------------|
-| Reconstruction Accuracy       | 0.70 – 0.85    |
-| Perplexity (test)             | 15 – 50        |
-| BLEU-4 (test)                 | 0.40 – 0.65    |
-| Morpho F1 (Morpho Challenge)  | 0.50 – 0.75    |
-| Cluster ARI vs UPOS (k=17)    | 0.15 – 0.40    |
-| Cluster NMI vs UPOS (k=17)    | 0.20 – 0.45    |
-
----
-
 ## Running Tests
 ```bash
 pytest tests/ -v --cov=src
